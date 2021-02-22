@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Map from './Map'
 import reportWebVitals from './reportWebVitals';
 // import App from './App';
 import Page from './1-Modal/Page';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Page />
+    <Map />
   </React.StrictMode>,
   document.getElementById('root')
 );
