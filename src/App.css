@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+body{
+  text-align: center;
+  background-image: url("./Ml.jpg");
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  color: antiquewhite;
+}
+
+.ml {
+  align-content: center ;
+  align-items: center;
+  margin-left: 550px;
+  color: wheat;
+    
+}

@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Setatejhon from './Setatejhon';
+import Table from './Table'
+// import Setren from './Setren';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Table />
   </React.StrictMode>,
   document.getElementById('root')
 );
